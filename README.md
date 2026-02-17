@@ -190,8 +190,4 @@ $Usuarios = $Usuarios | Where-Object { $_.SamAccountName -notlike "svc_*" }
 
 ## 📞 Suporte
 
-Em caso de dúvidas ou problemas na configuração, contate a equipe de TI pelo ramal **1234** ou abra um chamado no portal de suporte.
-
----
-
-*Projeto de Automação — Departamento de TI | v1.0 | 2025*
+Em caso de dúvidas ou problemas na configuração, contate a equipe de TI pelo ramal **1234** ou abra um chamado no portal de suporte rsrsrsrs.
